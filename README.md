@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+# hello-world #nishanth kumar
+my first repository in github
